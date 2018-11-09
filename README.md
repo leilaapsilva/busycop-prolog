@@ -26,7 +26,9 @@ Mais informações e documentação do código no relatório.
 ### Grupo
 
 Juliana Karoline
+
 Leila Aparecida
+
 Nicolas Prates
 
 
